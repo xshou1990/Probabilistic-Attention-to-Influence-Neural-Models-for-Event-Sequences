@@ -1,6 +1,6 @@
 # Probabilistic Attention-to-Influence Neural Models for Event Sequences
 
-Source code for Probabilistic Attention-to-Influence Neural Models for Event Sequences
+Source code for Probabilistic Attention-to-Influence Neural Models for Event Sequences ICML 2023
 
 # Run the code for  for Probabilistic Attention-to-Influence Neural Models
 
